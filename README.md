@@ -1,2 +1,2 @@
-# Deep-Learning-
+# Deep-Learning
 Some hands-on DL projects
